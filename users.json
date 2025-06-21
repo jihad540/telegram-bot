@@ -1,0 +1,21 @@
+{
+  "6730059373": {
+    "added_on": "2025-06-21",
+    "expires_on": "2025-07-21",
+    "daily_limit": 0,
+    "last_used": "",
+    "used_ips": []
+  },
+  "jihad54041": {
+    "added_on": "2025-06-21",
+    "expires_on": "2025-07-21",
+    "daily_limit": 4,
+    "last_used": "2025-06-21",
+    "used_ips": [
+      "135.181.250.116:47754:wlo5KM:YejSGD",
+      "135.181.250.116:30697:13nr0u:PUQMDh",
+      "135.181.250.116:63871:afNTSt:9YB5Dc",
+      "157.180.121.252:39837:KGwmeA:wLFsw0"
+    ]
+  }
+}
