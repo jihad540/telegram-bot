@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # তোমার টোকেন ও অ্যাডমিন ইউজারনেম
-BOT_TOKEN = "7849394108:AAF4g4mQSoBGzDpbLt2RLY_iOPn3JOKaPeE"
+BOT_TOKEN = "123456789:AAE4wMQuGnx-Z39NGHkii46JNVE-phAxgVo"
 ADMIN_USERNAME = "jihad54041"
 
 # ফাইল
